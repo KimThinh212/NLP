@@ -1,4 +1,4 @@
-# 📘 README - Thực hành môn Xử lý Ngôn ngữ Tự nhiên (NLP)
+# 📘 Thực hành môn Xử lý Ngôn ngữ Tự nhiên (NLP)
 
 ## 📌 Giới thiệu
 
